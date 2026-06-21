@@ -32,8 +32,6 @@ I focus on the engineering layer where AI agents meet real software systems: cod
 - **Cross-platform Rendering**: DSL-driven UI, rendering engines, protocol design, and multi-end consistency.
 - **Developer Experience**: small tools that turn complex engineering workflows into repeatable commands.
 
-中文简介：多年互联网大厂经验，专注于 AI Agent、Android 与跨端渲染引擎，持续沉淀工程实践与产品化思考。
-
 ### Featured Work
 
 | Project | What it is about |
