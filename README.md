@@ -55,6 +55,6 @@ Topics I care about:
 ### GitHub
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lukelmouse-github&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukelmouse-github&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lukelmouse-github&show_icons=true&theme=transparent&hide_border=true&v=20260703" alt="GitHub stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lukelmouse-github&layout=compact&theme=transparent&hide_border=true&v=20260703" alt="Top languages" />
 </p>
